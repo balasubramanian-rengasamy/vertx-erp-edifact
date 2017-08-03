@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-mainClassName = 'id.co.blogspot.datacomlink.JAXMServlet'
+mainClassName = 'id.co.blogspot.interoperabilitas.JAXMServlet'
 
 repositories {
     jcenter()
@@ -11,6 +11,6 @@ dependencies {
     compile 'io.vertx:vertx-core:3.4.2'
     compile 'io.vertx:vertx-web:3.4.2'
     compile 'io.vertx:vertx-rx-java:3.4.2'
-	compile 'org.milyn:milyn-smooks-edi:1.4'
+    compile 'org.milyn:milyn-smooks-edi:1.4'
     compile 'org.milyn.edi.unedifact:d01b-binding:1.4'
 }
