@@ -1,5 +1,5 @@
 # RESTful EDIFACT menggunakan Vert.x 3.4.2
-Repository berikut berisi berkas projek untuk artikel saya di [RESTful EDIFACT dengan Vert.x dan PHP cURL](https://yu88p.app.goo.gl/xmcJ)
+Repository berikut berisi berkas projek untuk artikel saya di [RESTful EDIFACT dengan Vert.x dan PHP cURL](https://yu88p.app.goo.gl/ei8b)
 
 ### Persyaratan
 Java JDK 8
